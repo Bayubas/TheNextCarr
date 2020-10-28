@@ -1,0 +1,14 @@
+D:\pemrog lanjut\Minggu 1\MVC\MVC\MVC\bin\Debug\MVC.exe.config
+D:\pemrog lanjut\Minggu 1\MVC\MVC\MVC\bin\Debug\MVC.exe
+D:\pemrog lanjut\Minggu 1\MVC\MVC\MVC\bin\Debug\MVC.pdb
+D:\pemrog lanjut\Minggu 1\MVC\MVC\MVC\obj\Debug\MVC.csprojResolveAssemblyReference.cache
+D:\pemrog lanjut\Minggu 1\MVC\MVC\MVC\obj\Debug\MainWindow.g.cs
+D:\pemrog lanjut\Minggu 1\MVC\MVC\MVC\obj\Debug\App.g.cs
+D:\pemrog lanjut\Minggu 1\MVC\MVC\MVC\obj\Debug\MVC_MarkupCompile.cache
+D:\pemrog lanjut\Minggu 1\MVC\MVC\MVC\obj\Debug\MVC_MarkupCompile.lref
+D:\pemrog lanjut\Minggu 1\MVC\MVC\MVC\obj\Debug\MainWindow.baml
+D:\pemrog lanjut\Minggu 1\MVC\MVC\MVC\obj\Debug\MVC.g.resources
+D:\pemrog lanjut\Minggu 1\MVC\MVC\MVC\obj\Debug\MVC.Properties.Resources.resources
+D:\pemrog lanjut\Minggu 1\MVC\MVC\MVC\obj\Debug\MVC.csproj.GenerateResource.Cache
+D:\pemrog lanjut\Minggu 1\MVC\MVC\MVC\obj\Debug\MVC.exe
+D:\pemrog lanjut\Minggu 1\MVC\MVC\MVC\obj\Debug\MVC.pdb
